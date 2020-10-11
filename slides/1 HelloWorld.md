@@ -8,7 +8,7 @@ marp: true
 ---
 
 
-# 基于Swift语言的iOS应用开发
+# iOS智能应用开发
 
 ![bg right:60% 95%](https://docs-assets.developer.apple.com/published/0c6f70c9aa2bc6bc3af552ecdfe73700/110/overview-hero@2x.png)
 
