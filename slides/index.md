@@ -24,3 +24,4 @@ marp: true
 4. [视图](4.html)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10. [卷积神经网络进阶应用](10.html)
 5. [控制器](5.html) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;11. [让iOS App理解自然语言](11.html)
 6. [高级视图与控制器](6.html)&emsp;&emsp;12. [在iOS App中运用机器翻译模型](12.html)
+13. [增强现实初探](13.html)
